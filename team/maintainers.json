@@ -1,0 +1,242 @@
+{
+  "active_maintainers": [
+    {
+      "name": "Achille (0xSharkBoy)",
+      "github": "0xsharkboy",
+      "currently_maintains": [
+        "beyond0lte",
+        "beyond1lte",
+        "beyond2lte",
+        "beyondx",
+        "d1",
+        "d2s",
+        "d2x",
+        "f62"
+      ]
+    },
+    {
+      "name": "Anierin Bliss",
+      "github": "AnierinBliss",
+      "currently_maintains": [
+        "bluejay",
+        "cheetah",
+        "comet",
+        "felix",
+        "lynx",
+        "oriole",
+        "panther",
+        "raven",
+        "tangorpro"
+      ]
+    },
+    {
+      "name": "CSSABLACK",
+      "github": "czarsuperstar",
+      "currently_maintains": [
+        "pyxis"
+      ]
+    },
+    {
+      "name": "Flakeforever",
+      "github": "flakeforever",
+      "currently_maintains": [
+        "mondrian"
+      ]
+    },
+    {
+      "name": "Giovanni (TechPanelGM)",
+      "github": "TechPanelGM",
+      "currently_maintains": [
+        "cmi",
+        "umi"
+      ]
+    },
+    {
+      "name": "Joey Huab",
+      "github": "joeyhuab",
+      "currently_maintains": [
+        "marble",
+        "raphael",
+        "tissot",
+        "venus"
+      ]
+    },
+    {
+      "name": "Le Hong Duc (tedomi2705)",
+      "github": "tedomi2705",
+      "currently_maintains": [
+        "beryllium"
+      ]
+    },
+    {
+      "name": "Manidweep",
+      "github": "manidweep",
+      "currently_maintains": [
+        "instantnoodle",
+        "instantnoodlep",
+        "kebab",
+        "lemonades",
+        "tokay"
+      ]
+    },
+    {
+      "name": "Omar Mohamed",
+      "github": "c0pt4n",
+      "currently_maintains": [
+        "garnet"
+      ]
+    },
+    {
+      "name": "Onelots",
+      "github": "onelots",
+      "currently_maintains": [
+        "blueline",
+        "bonito",
+        "cheeseburger",
+        "crosshatch",
+        "dumpling",
+        "guacamole",
+        "guacamoleb",
+        "hotdog",
+        "hotdogb",
+        "laurel_sprout",
+        "miatoll",
+        "polaris",
+        "sargo",
+        "vince"
+      ]
+    },
+    {
+      "name": "Oscar Mariscal",
+      "github": "osm1019",
+      "currently_maintains": [
+        "akita",
+        "caiman",
+        "husky",
+        "komodo",
+        "rtwo",
+        "shiba"
+      ]
+    },
+    {
+      "name": "Prathamk07",
+      "github": "Prathamk07",
+      "currently_maintains": [
+        "veux"
+      ]
+    },
+    {
+      "name": "Priyanshu Jangid",
+      "github": "thepriyanshujangid",
+      "currently_maintains": [
+        "redwood"
+      ]
+    },
+    {
+      "name": "Rondeau79",
+      "github": "Rondeau79",
+      "currently_maintains": [
+        "nio",
+        "pstar"
+      ]
+    },
+    {
+      "name": "Tejas Singh (tejas101k)",
+      "github": "tejas101k",
+      "currently_maintains": [
+        "ginkgo",
+        "vayu"
+      ],
+      "used_to_maintain": [
+        "aston"
+      ]
+    },
+    {
+      "name": "hiroshi. (Superuser)",
+      "github": "joshuah345",
+      "currently_maintains": [
+        "Pong"
+      ],
+      "used_to_maintain": [
+        "rubyx"
+      ]
+    },
+    {
+      "name": "yarpiin",
+      "github": "yarpiin",
+      "currently_maintains": [
+        "cupid"
+      ]
+    }
+  ],
+  "inactive_maintainers": [
+    {
+      "name": "AgBKartikey",
+      "github": "AgBKartikey",
+      "used_to_maintain": [
+        "Pong"
+      ]
+    },
+    {
+      "name": "Aggelos Savvopoulos (DarkAngelGR)",
+      "github": "DarkAngelGR",
+      "used_to_maintain": [
+        "salami"
+      ]
+    },
+    {
+      "name": "Akshat Singh",
+      "github": "legendleo90",
+      "used_to_maintain": [
+        "PL2"
+      ]
+    },
+    {
+      "name": "Ashwani x Suvojeet Sengupta",
+      "github": "suvojit213",
+      "used_to_maintain": [
+        "sky"
+      ]
+    },
+    {
+      "name": "Chema Funtan",
+      "github": "chematelegram",
+      "used_to_maintain": [
+        "cepheus",
+        "davinci",
+        "zippo"
+      ]
+    },
+    {
+      "name": "Mohammad Kibria",
+      "github": "kibria5",
+      "used_to_maintain": [
+        "peridot",
+        "sapphire",
+        "violet"
+      ]
+    },
+    {
+      "name": "Nalinish Ranjan",
+      "github": "NRanjan-17",
+      "used_to_maintain": [
+        "mido"
+      ]
+    },
+    {
+      "name": "ZAID KHAN",
+      "github": "zaidkhan0997",
+      "used_to_maintain": [
+        "lisa",
+        "sweet"
+      ]
+    },
+    {
+      "name": "lahaina",
+      "github": "nattolecats",
+      "used_to_maintain": [
+        "sunfish"
+      ]
+    }
+  ]
+}

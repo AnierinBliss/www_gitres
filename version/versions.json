@@ -1,0 +1,18 @@
+[
+  {
+    "branch": "vic-vanilla",
+    "version": "15_vanilla"
+  },
+  {
+    "branch": "vic",
+    "version": "15"
+  },
+  {
+    "branch": "udc-vanilla",
+    "version": "14_vanilla"
+  },
+  {
+    "branch": "udc",
+    "version": "14"
+  }
+]
