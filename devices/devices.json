@@ -6,6 +6,12 @@
     ]
   },
   {
+    "codename": "test",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
     "codename": "Pong",
     "branches": [
       "vic",
