@@ -1,0 +1,672 @@
+[
+  {
+    "codename": "PL2",
+    "branches": [
+      "udc"
+    ]
+  },
+  {
+    "codename": "Pong",
+    "branches": [
+      "vic",
+      "udc",
+      "udc-vanilla"
+    ]
+  },
+  {
+    "codename": "akita",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "aston",
+    "branches": [
+      "udc",
+      "udc-vanilla"
+    ]
+  },
+  {
+    "codename": "bathena",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "beckham",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "beryllium",
+    "branches": [
+      "vic",
+      "udc"
+    ]
+  },
+  {
+    "codename": "beyond0lte",
+    "branches": [
+      "vic",
+      "vic-vanilla",
+      "udc"
+    ]
+  },
+  {
+    "codename": "beyond1lte",
+    "branches": [
+      "vic",
+      "vic-vanilla",
+      "udc"
+    ]
+  },
+  {
+    "codename": "beyond2lte",
+    "branches": [
+      "vic",
+      "vic-vanilla",
+      "udc"
+    ]
+  },
+  {
+    "codename": "beyondx",
+    "branches": [
+      "vic",
+      "vic-vanilla",
+      "udc"
+    ]
+  },
+  {
+    "codename": "bluejay",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "blueline",
+    "branches": [
+      "vic",
+      "udc"
+    ]
+  },
+  {
+    "codename": "bonito",
+    "branches": [
+      "vic",
+      "udc"
+    ]
+  },
+  {
+    "codename": "borneo",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "caiman",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "capri",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "caprip",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "cebu",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "cepheus",
+    "branches": [
+      "vic",
+      "udc"
+    ]
+  },
+  {
+    "codename": "channel",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "cheeseburger",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "cheetah",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "cmi",
+    "branches": [
+      "vic",
+      "vic-vanilla"
+    ]
+  },
+  {
+    "codename": "comet",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "crosshatch",
+    "branches": [
+      "vic",
+      "udc"
+    ]
+  },
+  {
+    "codename": "cupid",
+    "branches": [
+      "vic",
+      "udc"
+    ]
+  },
+  {
+    "codename": "d1",
+    "branches": [
+      "vic",
+      "vic-vanilla",
+      "udc"
+    ]
+  },
+  {
+    "codename": "d2s",
+    "branches": [
+      "vic",
+      "vic-vanilla",
+      "udc"
+    ]
+  },
+  {
+    "codename": "d2x",
+    "branches": [
+      "vic",
+      "vic-vanilla",
+      "udc"
+    ]
+  },
+  {
+    "codename": "davinci",
+    "branches": [
+      "udc"
+    ]
+  },
+  {
+    "codename": "devon",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "dubai",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "dumpling",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "evert",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "f62",
+    "branches": [
+      "vic",
+      "vic-vanilla",
+      "udc"
+    ]
+  },
+  {
+    "codename": "felix",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "garnet",
+    "branches": [
+      "vic",
+      "vic-vanilla",
+      "udc"
+    ]
+  },
+  {
+    "codename": "ginkgo",
+    "branches": [
+      "vic",
+      "vic-vanilla",
+      "udc",
+      "udc-vanilla"
+    ]
+  },
+  {
+    "codename": "gta4xl",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "gta4xlwifi",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "guacamole",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "guacamoleb",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "guam",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "guamp",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "hawao",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "haydn",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "hotdog",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "hotdogb",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "husky",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "instantnoodle",
+    "branches": [
+      "vic",
+      "udc"
+    ]
+  },
+  {
+    "codename": "instantnoodlep",
+    "branches": [
+      "vic",
+      "udc"
+    ]
+  },
+  {
+    "codename": "kane",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "kebab",
+    "branches": [
+      "vic",
+      "udc"
+    ]
+  },
+  {
+    "codename": "komodo",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "lake",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "laurel_sprout",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "lemonades",
+    "branches": [
+      "vic",
+      "udc"
+    ]
+  },
+  {
+    "codename": "lisa",
+    "branches": [
+      "vic",
+      "udc"
+    ]
+  },
+  {
+    "codename": "lynx",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "marble",
+    "branches": [
+      "vic",
+      "udc"
+    ]
+  },
+  {
+    "codename": "miatoll",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "mido",
+    "branches": [
+      "vic",
+      "udc"
+    ]
+  },
+  {
+    "codename": "mondrian",
+    "branches": [
+      "vic",
+      "udc"
+    ]
+  },
+  {
+    "codename": "nio",
+    "branches": [
+      "vic",
+      "udc"
+    ]
+  },
+  {
+    "codename": "ocean",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "oriole",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "panther",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "peridot",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "polaris",
+    "branches": [
+      "vic",
+      "udc"
+    ]
+  },
+  {
+    "codename": "pstar",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "pyxis",
+    "branches": [
+      "vic",
+      "vic-vanilla",
+      "udc"
+    ]
+  },
+  {
+    "codename": "raphael",
+    "branches": [
+      "vic",
+      "udc"
+    ]
+  },
+  {
+    "codename": "raven",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "redwood",
+    "branches": [
+      "vic",
+      "udc"
+    ]
+  },
+  {
+    "codename": "rhode",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "river",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "rtwo",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "rubyx",
+    "branches": [
+      "vic",
+      "udc"
+    ]
+  },
+  {
+    "codename": "salami",
+    "branches": [
+      "udc"
+    ]
+  },
+  {
+    "codename": "sapphire",
+    "branches": [
+      "udc"
+    ]
+  },
+  {
+    "codename": "sargo",
+    "branches": [
+      "vic",
+      "udc"
+    ]
+  },
+  {
+    "codename": "scorpio",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "shiba",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "sky",
+    "branches": [
+      "vic",
+      "udc",
+      "udc-vanilla"
+    ]
+  },
+  {
+    "codename": "stone",
+    "branches": [
+      "udc"
+    ]
+  },
+  {
+    "codename": "sunfish",
+    "branches": [
+      "udc"
+    ]
+  },
+  {
+    "codename": "sweet",
+    "branches": [
+      "udc"
+    ]
+  },
+  {
+    "codename": "tangorpro",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "tissot",
+    "branches": [
+      "udc"
+    ]
+  },
+  {
+    "codename": "tokay",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "topaz",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "troika",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "umi",
+    "branches": [
+      "vic",
+      "vic-vanilla"
+    ]
+  },
+  {
+    "codename": "vayu",
+    "branches": [
+      "vic",
+      "vic-vanilla",
+      "udc",
+      "udc-vanilla"
+    ]
+  },
+  {
+    "codename": "venus",
+    "branches": [
+      "vic",
+      "udc"
+    ]
+  },
+  {
+    "codename": "veux",
+    "branches": [
+      "vic",
+      "udc",
+      "udc-vanilla"
+    ]
+  },
+  {
+    "codename": "vince",
+    "branches": [
+      "vic",
+      "udc"
+    ]
+  },
+  {
+    "codename": "violet",
+    "branches": [
+      "udc"
+    ]
+  },
+  {
+    "codename": "xpeng",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "zeus",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "zippo",
+    "branches": [
+      "vic",
+      "udc"
+    ]
+  }
+]
