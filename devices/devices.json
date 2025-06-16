@@ -20,6 +20,12 @@
     ]
   },
   {
+    "codename": "test",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
     "codename": "aston",
     "branches": [
       "udc",
